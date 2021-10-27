@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049434759889",
+    "project_id": "transito-proy",
+    "storage_bucket": "transito-proy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049434759889:android:1dedbb88a8c0639afbdbf0",
+        "android_client_info": {
+          "package_name": "co.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049434759889-4kjg9rvgl5d1kd0dd7j0ethlj1h64nlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACnhdYukHtNeea1iT7b-wXnIE8pb79I-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049434759889-4kjg9rvgl5d1kd0dd7j0ethlj1h64nlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
